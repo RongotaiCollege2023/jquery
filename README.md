@@ -1,4 +1,6 @@
 # jQuery
 ### Shopping cart
 
-To be used as a template
+To be used as a template.
+
+
